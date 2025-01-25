@@ -24,7 +24,7 @@ Purpose: This function prints two newline characters for creating a visual separ
 
 Usage: It helps to organize the visual flow of the text output, making it easier for players to read successive pieces of game text.
 
-start_game():
+1. start_game():
 
 Purpose: This function begins your game by setting up the game scenario and starting the first room interaction.
 
@@ -38,8 +38,7 @@ Checks if the current room is the target room.
 Provides options for the player to explore the room or examine items.
 Calls explore_room() for listing room items or examine_item() to interact with an item.
 
-
-explore_room(room):
+2. explore_room(room):
 
 Purpose: Lists all items present in the specified room.
 
@@ -49,7 +48,7 @@ get_next_room_of_door(door, current_room):
 Purpose: Determines the next room that can be accessed through a specific door.
 Usage: Finds and returns a room connected by a given door, excluding the current room. Utilizes object relations to check door associations.
 
-examine_item(item_name):
+3. examine_item(item_name):
 
 Purpose: Offers interactions with items in the room, such as attempting to unlock doors or discovering keys.
 
