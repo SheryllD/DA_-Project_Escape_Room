@@ -94,3 +94,4 @@ Attention to detail is vital in order to prevent mistakes and also augmenting th
 
 ## Deliverables 
 Presentation link: https://docs.google.com/presentation/d/1oYmg2ITy4pBsAfp-pujMsEL3S0EEeaQhwQJwokHyU0M/edit#slide=id.p
+Trello link for Project Management: https://trello.com/b/3niexfMu/master-of-errors
