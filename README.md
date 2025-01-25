@@ -21,6 +21,7 @@ Ngoc-Phung Dang
 ## Tools
 - Jupyter Notebook 
 - VSC Code 
+- BPMN Flowcharts 
 
 ## Technical Challenges (erros & mistakes)
  
