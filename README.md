@@ -6,7 +6,7 @@ This project presents a map with four rooms (Game Room, Bedroom 1, Bedroom 2 and
 ## Tools
 - needs to be filled in 
 
-## Issues 
+## Issues & Errors
 - needs to be filled in 
 
 ## Deliverables 
