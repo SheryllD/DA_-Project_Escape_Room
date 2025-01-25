@@ -37,4 +37,4 @@ Failing to complete all the key variables mostly by omission. Lack of understand
 Attention to detail is vital in order to prevent mistakes and also augmenting the level of understanding of certain functions is key in order to correct mistake in a timely manner.
 
 ## Deliverables 
-Presentation link: 
+Presentation link: https://docs.google.com/presentation/d/1oYmg2ITy4pBsAfp-pujMsEL3S0EEeaQhwQJwokHyU0M/edit#slide=id.p
